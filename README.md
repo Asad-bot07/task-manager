@@ -77,7 +77,7 @@ npm run dev
 Open your browser and visit http://localhost:5173 (or the port shown in your terminal).
 ```
 
-## 📜 Available ScriptsIn 
+## 📜 Available Scripts
 
 #### the project directory, you can run:
 
@@ -88,3 +88,18 @@ npm run build       Builds the app for production to the dist folder.
 npm run lint        Runs ESLint to check for code quality issues.
 npm run preview     Locally previews the production build.
 ```
+## 🤝 Contributing
+
+#### Contributions are welcome! If you'd like to improve this project, please follow these steps:
+
+Fork the Project
+
+Create your Feature Branch ```(git checkout -b feature/AmazingFeature)```
+
+Commit your Changes ```(git commit -m 'Add some AmazingFeature')```
+
+Push to the Branch ```(git push origin feature/AmazingFeature)```
+
+Open a **Pull Request**
+
+<p align="center"> Created by <a href="https://www.google.com/search?q=https://github.com/Asad-bot07">Asad-bot07</a> </p>
